@@ -14,8 +14,7 @@ I'm a Python developer building projects in applied AI, machine learning, and da
   Project exploring risk monitoring, anomaly detection, and AI-generated insights.
 
 - **[Voice AI Doctor Appointment Assistant](https://github.com/anuhya-7842/Voice-AI-Doctor-Appointment-Assistant)**  
-  Python and Flask workflow for validating claims, assessing eligibility, and flagging suspicious cases.
-
+  An AI-powered voice assistant built using Python, FastAPI, Pipecat, Gemini, and ElevenLabs to check doctor availability,   book appointments, and cancel existing appointments through natural voice conversations with phone number verification.
 ## Tools and technologies
 
 Python · Flask · Machine Learning · LangGraph · Google Gemini · ChromaDB · Streamlit · Git
