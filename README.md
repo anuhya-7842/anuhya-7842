@@ -13,7 +13,7 @@ I'm a Python developer building projects in applied AI, machine learning, and da
 - **[AI Agent for Operational Risk](https://github.com/anuhya-7842/AI-Agent-for-Operational-Risk-and-Performance-Metrics)**  
   Project exploring risk monitoring, anomaly detection, and AI-generated insights.
 
-- **[Insurance Claims AI](https://github.com/anuhya-7842/Insurance-Claims-AI)**  
+- **[Voice AI Doctor Appointment Assistant](https://github.com/anuhya-7842/Insurance-Claims-AI)**  
   Python and Flask workflow for validating claims, assessing eligibility, and flagging suspicious cases.
 
 ## Tools and technologies
